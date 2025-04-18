@@ -20,6 +20,7 @@ By treating **voltage** as an analog for **spacetime potential**, and computing 
 - Simulates how they **self-organize**, flow, and stabilize as ***emergent behaviors of the field***
 
 This is not a toy animation.  
+
 It’s a **numerical demonstration** of the idea that **form arises from geometry**.
 
 ## 🧪 Features
