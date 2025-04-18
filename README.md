@@ -35,7 +35,6 @@ It’s a **numerical demonstration** of the idea that **form arises from geometr
 
 | Voltage Field | Electric Field + Particle Chaos |
 |---------------|----------------------------------|
-| ![voltage](assets/voltage_field.png) | ![particles](assets/particle_simulation.png) |
 
 > (You can generate these by running the simulation and exporting screenshots or gifs)
 
